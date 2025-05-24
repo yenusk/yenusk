@@ -31,8 +31,8 @@ Also, I believe in viewing challenges as interconnected systems rather than isol
 - Exploring **Prompt Engineering** & AI-assisted development  
 
 ### 🌱 Currently Learning
-- MERN Stack (MongoDB, Express, React, Node)  
-- Prompt Engineering with AI APIs  
+- MERN (MongoDB, Express, React, Node) stack. 
+- Prompt Engineering  
 - RESTful APIs & backend scalability  
 - Advanced JavaScript patterns  
 
