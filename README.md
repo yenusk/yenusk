@@ -17,7 +17,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFC6&width=435&height=60&lines=Hey+there!+I'm+Yenus+Kindu+👋;Fullstack+Web+Developer;Node.js+%7C+Express+%7C+MySQL;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
 
-Hey! I'm **Yenus Kindu**, a motivated and enthusiastic **Fullstack Web Developer** with a solid foundation in **HTML**, **CSS**, **JavaScript**, **Node.js**, **Express.js** and **mySQL**.  
+Hey! I'm **Yenus Kindu**, a motivated and enthusiastic **Fullstack Web Developer** with a solid foundation in **HTML**, **CSS**, **JavaScript**, **JQuery**, **Node.js**, **Express.js** and **mySQL**.  
 I've built projects using **Bootstrap**, **Media Queries**, and **Tailwind CSS**, and I’m passionate about learning new technologies to create intuitive and engaging web experiences.  
 I love exploring tools like **React**, **Node.js**, and **Next.js**, and I'm particularly interested in building **offline-friendly EdTech platforms** and **Chrome Extensions**.  
 Also, I believe in viewing challenges as interconnected systems rather than isolated problems—solving one part can unlock solutions for the rest.
