@@ -43,7 +43,7 @@ Also, I believe in viewing challenges as interconnected systems rather than isol
 
 ---
 
-# 📫 Reach Me At
+# 📫 Reach Me 🤝 At
 - 📧 **Email:** [yunusk7317@gmail.com](mailto:yunusk7317@gmail.com)
 - 💼 **LinkedIn:** [Yenus Kindu](https://www.linkedin.com/in/yenuskindu)
 - 💻 **GitHub:** [yenusk](https://github.com/yenusk)
@@ -60,7 +60,7 @@ Also, I believe in viewing challenges as interconnected systems rather than isol
 
 ---
 
-# 💻 Tech Stack
+# 💻 Tech Stacks
 
 ### 🔹 Languages 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
