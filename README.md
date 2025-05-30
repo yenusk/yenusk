@@ -25,8 +25,8 @@ Also, I believe in viewing challenges as interconnected systems rather than isol
 ---
 
 ### 👀 Interests
-- Fullstack development with **React**, **Next.js**, and **Node.js**  
-- Building **offline-friendly EdTech tools**  
+- Fullstack web development with **React**, **Next.js**, and **Node.js**  
+- Building an **offline-friendly EdTech tools**  
 - Developing Chrome Extensions that boost productivity  
 - Exploring **Prompt Engineering** & AI-assisted development  
 
