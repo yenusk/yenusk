@@ -24,7 +24,7 @@ Also, I believe in viewing challenges as interconnected systems rather than isol
 
 ---
 
-### 👀 Interests
+### 👀 Interests on
 - Fullstack web development with **React**, **Next.js**, and **Node.js**  
 - Building an **offline-friendly EdTech tools**  
 - Developing Chrome Extensions that boost productivity  
@@ -41,7 +41,7 @@ Also, I believe in viewing challenges as interconnected systems rather than isol
 - Developer productivity extensions  
 - Open-source fullstack or EdTech projects  
 
----
+----
 
 # 📫 Reach Me 🤝 At
 - 📧 **Email:** [yunusk7317@gmail.com](mailto:yunusk7317@gmail.com)
@@ -58,7 +58,7 @@ Also, I believe in viewing challenges as interconnected systems rather than isol
 - 🗣 **Clear and adaptive communication**
 - 🚀 **Always learning, always improving**
 
----
+----
 
 # 💻 Tech Stacks
 
@@ -103,7 +103,7 @@ Also, I believe in viewing challenges as interconnected systems rather than isol
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 
----
+----
 
 # 📊 GitHub Stats
 
@@ -113,7 +113,7 @@ Also, I believe in viewing challenges as interconnected systems rather than isol
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yenusk&layout=compact&theme=dark&hide_border=false&count_private=true" alt="Top Languages"/>
 </p>
 
----
+----
 
 [![](https://visitcount.itsvg.in/api?id=yenusk&icon=9&color=0)](https://visitcount.itsvg.in)
 
